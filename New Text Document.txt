@@ -1,0 +1,40 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @yashmithramana
+ Sign out
+ Watch 0
+  Star 0
+ Fork 0 yashmithramana/myapp
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights 
+Quick setup — if you’ve done this kind of thing before
+ Set up in Desktop	or	
+ HTTPS
+ SSH
+
+https://github.com/yashmithramana/myapp.git
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+
+echo "# myapp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yashmithramana/myapp.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/yashmithramana/myapp.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Import code
+ ProTip! Use the URL for this page when adding GitHub as a remote.
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
