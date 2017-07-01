@@ -21,7 +21,7 @@ https://github.com/yashmithramana/myapp.git
 We recommend every repository include a README, LICENSE, and .gitignore.
 …or create a new repository on the command line
 
-echo "# myapp" >> README.md
+echo "# myapp" >> README.md    
 git init
 git add README.md
 git commit -m "first commit"
@@ -38,3 +38,13 @@ Import code
  ProTip! Use the URL for this page when adding GitHub as a remote.
 Contact GitHub API Training Shop Blog About
 © 2017 GitHub, Inc. Terms Privacy Security Status Help
+
+
+
+
+
+
+
+
+
+ Push  URL:https://github.com/yashmithramana/myapp.git changed
